@@ -1,6 +1,11 @@
-*/ style.css */
+/* style.css */
 
 
-.h1 {
-color:pink;
+h1 {
+color:black;
+background-color:beige;
+text-align: center;
 }
+
+
+
